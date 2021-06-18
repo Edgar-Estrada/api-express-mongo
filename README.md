@@ -4,6 +4,8 @@
 
 - Install [Node.js](https://nodejs.org/es/)
 
+- Install [Monogo](https://www.mongodb.com/try/download/community?tck=docs_server)
+
 - Install frontend (https://github.com/typicode/json-server)
 
 - Clone the repository.
