@@ -1,10 +1,10 @@
-# CRUD
+# CRUD BackEnd
 
 ## To Usage
 
 - Install [Node.js](https://nodejs.org/es/)
 
-- Install frontend [repo] (https://github.com/typicode/json-server)
+- Install frontend (https://github.com/typicode/json-server)
 
 - Clone the repository.
 

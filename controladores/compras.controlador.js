@@ -11,6 +11,7 @@ comprasControlador.getCompra = async (req,res)=>{
 
 //Obtener el producto por el id
 comprasControlador.addCompra = async (req,res) => {
+    console.log('Si llego');
     const id = req.params.id;
     const oneProduct = await producto.findById(id);
     const añadirCompra = {
